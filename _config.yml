@@ -10,13 +10,13 @@ var:
   rss_path: /atom.xml
 
 production_url : http://username.github.com # or your custom domain name
-title : Jekyll Boostrap
+title : xtine's github page
 
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
+  name : Christine Cheung
+  email : piroko@gmail.com
+  github : xtine
+  twitter : plaidxtine
   feedbuder : feedname
 
 exclude: .rbenv-version
